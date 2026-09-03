@@ -48,6 +48,8 @@ Permitirá registrar productos y categorías, cargar compras, realizar ventas y 
 
 **Estado:**  En desarrollo
 
+[Ver repositorio](https://github.com/AlanZeroDev/PulsoStock)
+
 ## Otros proyectos
 
 ###  API de inventario de ropa
