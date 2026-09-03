@@ -84,4 +84,4 @@ Sitio web donde presento mi perfil, experiencia y proyectos.
 ## Contacto
 
 - Portfolio: [alanzerodev.github.io/portfolio](https://alanzerodev.github.io/portfolio/)
-- Correo: [tu-correo@gmail.com](mailto:tu-correo@gmail.com)
+- Correo: [tu-correo@gmail.com](alangomez1012v2@gmail.com)
